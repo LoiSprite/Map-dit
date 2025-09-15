@@ -1,0 +1,115 @@
+getgenv().Key = "k719a889a8e9b7246d844cac"
+getgenv().Config = {
+    ["Gameplay"] = {
+        ["Server Type"] = "Private",
+        -- Private Server config
+        ["Collect Cash Cap"] = "10B",
+        -- Public Server config
+        ["Max Auctioning Multiplier"] = 10,
+        ["Lock Base Extra Time"] = 5,
+    },
+    ["Misc"] = {
+        ["Kick if Ping above"] = 1000,
+        ["Kick if FPS below"] = 3,
+        ["Ignore Secret"] = {
+            ["Extinct Tralalero"] = {
+                "All",
+            },
+        },
+        ["Buy Lucky Block"] = {
+            "Admin Lucky Block",
+            "Secret Lucky Block",
+            "Taco Lucky Block",
+        },
+    },
+    ["Performance"] = {
+        ["Boost FPS"] = true,
+        ["Black Screen"] = true,
+    },
+    ["Webhook"] = {
+        ["Enable"] = true,
+        ["Url"] = "https://discord.com/api/webhooks/1391084727473012816/6BMquLQMse3mUQYmnf2zYxjCRaWfD9-5T9Qs7Rgeq5iqUv-Dgcf4PmBfGfSvdb8nwdAR",
+        ["Discord UserID"] = "600936810092167179",
+        ["Ignore Notify"] = {
+            ["La Vacca Saturno Saturnita"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Candy",
+                "Rainbow",
+                "Bloodrot",
+            },
+            ["Sammyni Spyderini"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Bloodrot",
+                "Rainbow",
+            },
+            ["Chimpanzini Spiderini"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Bloodrot",
+                "Rainbow",
+            },
+            ["Los Tralaleritos"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Candy",
+                "Rainbow",
+                "Bloodrot",
+            },
+            ["Las Tralaleritas"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Candy",
+                "Rainbow",
+                "Bloodrot",
+            },
+            ["Karkerkar Kurkur"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Candy",
+                "Rainbow",
+                "Bloodrot",
+            },
+            ["Job Job Job Sahur"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Candy",
+                "Rainbow",
+                "Bloodrot",
+            },
+            ["Graipuss Medussi"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Candy",
+                "Rainbow",
+                "Bloodrot",
+            },
+        },
+    }
+}
+spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
