@@ -1,7 +1,7 @@
 getgenv().Key = "k719a889a8e9b7246d844cac"
 getgenv().Config = {
     ["Gameplay"] = {
-        ["Server Type"] = "Private (Free)",
+        ["Server Type"] = "Private",
         -- Private Server config
         ["Collect Cash Cap"] = "10B",
         -- Public Server config
@@ -138,6 +138,7 @@ getgenv().Config = {
 }
 
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
 
 
 
