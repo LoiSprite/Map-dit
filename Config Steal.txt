@@ -12,9 +12,6 @@ getgenv().Config = {
         ["Kick if Ping above"] = 1000000,
         ["Kick if FPS below"] = 3,
         ["Ignore Secret"] = {
-            ["Sammyni Spyderini"] = {
-                "All",
-            },
             ["La Cucaracha"] = {
                 "All",
             },
@@ -25,9 +22,6 @@ getgenv().Config = {
                 "All",
             },
             ["Karkerkar Kurkur"] = {
-                "All",
-            },
-            ["La Vacca Saturno Saturnita"] = {
                 "All",
             },
         },
@@ -129,6 +123,7 @@ getgenv().Config = {
 }
 
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
 
 
 
