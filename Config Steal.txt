@@ -40,6 +40,7 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
+                "YinYang",
             },
             ["Sammyni Spyderini"] = {
                 "Normal",
@@ -49,6 +50,7 @@ getgenv().Config = {
                 "Diamond",
                 "Bloodrot",
                 "Rainbow",
+                "YinYang",
             },
             ["Chimpanzini Spiderini"] = {
                 "Normal",
@@ -58,6 +60,7 @@ getgenv().Config = {
                 "Diamond",
                 "Bloodrot",
                 "Rainbow",
+                "YinYang",
             },
             ["Los Tralaleritos"] = {
                 "Normal",
@@ -68,6 +71,7 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
+                "YinYang",
             },
             ["Las Tralaleritas"] = {
                 "Normal",
@@ -78,6 +82,7 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
+                "YinYang",
             },
             ["Karkerkar Kurkur"] = {
                 "Normal",
@@ -88,6 +93,7 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
+                "YinYang",
             },
             ["Job Job Job Sahur"] = {
                 "Normal",
@@ -98,6 +104,7 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
+                "YinYang",
             },
             ["Graipuss Medussi"] = {
                 "Normal",
@@ -108,10 +115,12 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
+                "YinYang",
             },
         },
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
 
 
