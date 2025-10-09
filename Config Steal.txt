@@ -40,7 +40,7 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
-                "YinYang",
+                "Yin Yang",
             },
             ["Sammyni Spyderini"] = {
                 "Normal",
@@ -50,7 +50,7 @@ getgenv().Config = {
                 "Diamond",
                 "Bloodrot",
                 "Rainbow",
-                "YinYang",
+                "Yin Yang",
             },
             ["Chimpanzini Spiderini"] = {
                 "Normal",
@@ -60,7 +60,7 @@ getgenv().Config = {
                 "Diamond",
                 "Bloodrot",
                 "Rainbow",
-                "YinYang",
+                "Yin Yang",
             },
             ["Los Tralaleritos"] = {
                 "Normal",
@@ -71,7 +71,7 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
-                "YinYang",
+                "Yin Yang",
             },
             ["Las Tralaleritas"] = {
                 "Normal",
@@ -82,7 +82,7 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
-                "YinYang",
+                "Yin Yang",
             },
             ["Karkerkar Kurkur"] = {
                 "Normal",
@@ -93,7 +93,7 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
-                "YinYang",
+                "Yin Yang",
             },
             ["Job Job Job Sahur"] = {
                 "Normal",
@@ -104,7 +104,7 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
-                "YinYang",
+                "Yin Yang",
             },
             ["Graipuss Medussi"] = {
                 "Normal",
@@ -115,12 +115,9 @@ getgenv().Config = {
                 "Candy",
                 "Rainbow",
                 "Bloodrot",
-                "YinYang",
+                "Yin Yang",
             },
         },
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
-
-
-
