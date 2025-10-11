@@ -11,7 +11,35 @@ getgenv().Config = {
     ["Misc"] = {
         ["Kick if Ping above"] = 10000,
         ["Kick if FPS below"] = 3,
-        ["Ignore Secret"] = {},
+        ["Ignore Secret"] = {
+            ["Sammyni Spyderini"] = {
+                "All",
+            },
+            ["Job Job Job Sahur"] = {
+                "All",
+            },
+            ["La Cucaracha"] = {
+                "All",
+            },
+            ["Chachechi"] = {
+                "All",
+            },
+            ["Dul Dul Dul"] = {
+                "All",
+            },
+            ["Karkerkar Kurkur"] = {
+                "All",
+            },
+            ["Los Tralaleritos"] = {
+                "All",
+            },
+            ["La Vacca Saturno Saturnita"] = {
+                "All",
+            },
+            ["Las Tralaleritas"] = {
+                "All",
+            },
+        },
         ["Buy Lucky Block"] = {
             "Admin Lucky Block",
             "Secret Lucky Block",
@@ -121,4 +149,5 @@ getgenv().Config = {
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
 
