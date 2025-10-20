@@ -11,5 +11,9 @@ spawn(function()
 end)
 
 spawn(function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/LoiSprite/Map-dit/refs/heads/main/TrackStatsChim.lua'))()
+end)
+
+spawn(function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/LoiSprite/Map-dit/refs/heads/main/TrackStats.lua'))()
 end)
