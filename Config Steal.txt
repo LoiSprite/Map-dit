@@ -23,22 +23,19 @@ getgenv().Config = {
                 ["Santa Hotspot"] = {
                         "All",
                 },
-                ["Triplito Tralaleritos"] = {
+                ["GOAT"] = {
                         "All",
                 },
-                ["La Vacca Prese Presente"] = {
+                ["Burrito Bandito"] = {
                         "All",
                 },
                 ["La Cucaracha"] = {
                         "All",
                 },
+                ["Los Nooo My Hotspotsitos "] = {
+                        "All",
+                },
                 ["Guerriro Digitale"] = {
-                        "All",
-                },
-                ["Chachechi"] = {
-                        "All",
-                },
-                ["To to to Sahur"] = {
                         "All",
                 },
                 ["Ho Ho Ho Sahur"] = {
@@ -80,10 +77,10 @@ getgenv().Config = {
             ["Job Job Job Sahur"] = {
                 "All",
             },
-            ["Zombie Tralala"] = {
+            ["Las Tralaleritas"] = {
                 "All",
             },
-            ["Reindeer Tralala"] = {
+            ["Los Tralaleritos"] = {
                 "All",
             },
             ["La Cucaracha"] = {
@@ -251,6 +248,7 @@ getgenv().Config = {
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
 
 
 
