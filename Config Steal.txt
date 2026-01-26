@@ -15,42 +15,24 @@ getgenv().Config = {
         ["Rare Animal Generation"] = "10M",
         ["Only keep Secret if Cash Cap"] = true,
         ["Auto Fuse"] = {
-            ["Enable"] = false,
+            ["Enable"] = true,
             ["Fuse Animal"] = {
-                ["Dul Dul Dul"] = {
-                        "All",
-                },
-                ["Santa Hotspot"] = {
-                        "All",
-                },
                 ["GOAT"] = {
                         "All",
                 },
                 ["Burrito Bandito"] = {
                         "All",
                 },
-                ["La Cucaracha"] = {
+                ["Los Nooo My Hotspotsitos"] = {
                         "All",
                 },
-                ["Los Nooo My Hotspotsitos "] = {
+                ["Chicleteirina Bicicleteirina"] = {
                         "All",
                 },
-                ["Guerriro Digitale"] = {
+                ["Chicleteira Bicicleteira"] = {
                         "All",
                 },
-                ["Ho Ho Ho Sahur"] = {
-                        "All",
-                },
-                ["Sammyni Spyderini"] = {
-                        "All",
-                },
-                ["La Vacca Saturno Saturnita"] = {
-                        "All",
-                },
-                ["Job Job Job Sahur"] = {
-                        "All",
-                },
-                ["Los Tortus"] = {
+                ["Graipuss Medussi"] = {
                         "All",
                 },
                 ["Quesadilla Crocodila"] = {
@@ -248,6 +230,7 @@ getgenv().Config = {
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
 
 
 
