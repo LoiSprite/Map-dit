@@ -17,9 +17,6 @@ getgenv().Config = {
         ["Auto Fuse"] = {
             ["Enable"] = true,
             ["Fuse Animal"] = {
-                ["GOAT"] = {
-                        "All",
-                },
                 ["Burrito Bandito"] = {
                         "All",
                 },
@@ -59,9 +56,6 @@ getgenv().Config = {
                 ["Quesadilla Crocodila"] = {
                         "All",
                 },
-                ["Los Jobcitos"] = {
-                        "All",
-                },
                 ["Burrito Bandito"] = {
                         "All",
                 },
@@ -93,6 +87,9 @@ getgenv().Config = {
                 "All",
             },
             ["Dul Dul Dul"] = {
+                "All",
+            },
+            ["Los Jobcitos"] = {
                 "All",
             },
             ["Karkerkar Kurkur"] = {
@@ -254,6 +251,7 @@ getgenv().Config = {
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
 
 
 
