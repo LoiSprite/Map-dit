@@ -23,16 +23,34 @@ getgenv().Config = {
                 ["Burrito Bandito"] = {
                         "All",
                 },
+                ["Los Combinasionas"] = {
+                        "All",
+                },
+                ["Nooo My Hotspot"] = {
+                        "All",
+                },
+                ["67"] = {
+                        "All",
+                },
                 ["Los Nooo My Hotspotsitos"] = {
                         "All",
                 },
-                ["Chicleteirina Bicicleteirina"] = {
+                ["Los Nooo My Hotspotsitos"] = {
+                        "All",
+                },
+                ["Chicleteira Bicicleteira"] = {
+                        "All",
+                },
+                ["La Grande Combinasion"] = {
                         "All",
                 },
                 ["Chill Puppy"] = {
                         "All",
                 },
-                ["Chicleteira Bicicleteira"] = {
+                ["Brunito Marsito"] = {
+                        "All",
+                },
+                ["Chicleteirina Bicicleteirina"] = {
                         "All",
                 },
                 ["Graipuss Medussi"] = {
@@ -236,6 +254,7 @@ getgenv().Config = {
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
 
 
 
