@@ -167,7 +167,37 @@ getgenv().Config = {
                 "Bloodrot",
                 "Yin Yang",
             },
+            ["To to to Sahur"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Bloodrot",
+                "Rainbow",
+                "Yin Yang",
+            },
+            ["La Grande Combinasion"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Bloodrot",
+                "Rainbow",
+                "Yin Yang",
+            },
             ["Sammyni Spyderini"] = {
+                "Normal",
+                "Galaxy",
+                "Lava",
+                "Gold",
+                "Diamond",
+                "Bloodrot",
+                "Rainbow",
+                "Yin Yang",
+            },
+            ["Chicleteira Bicicleteira"] = {
                 "Normal",
                 "Galaxy",
                 "Lava",
@@ -257,6 +287,7 @@ getgenv().Config = {
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
 
 
 
