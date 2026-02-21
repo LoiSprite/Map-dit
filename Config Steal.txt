@@ -158,156 +158,93 @@ getgenv().Config = {
         ["Ignore Notify"] = {
             ["La Vacca Saturno Saturnita"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
                 "Candy",
                 "Rainbow",
-                "Bloodrot",
-                "Yin Yang",
+                "Divine",
             },
             ["To to to Sahur"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
-                "Bloodrot",
+                "Candy",
                 "Rainbow",
-                "Yin Yang",
+                "Divine",
             },
             ["La Grande Combinasion"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
-                "Bloodrot",
+                "Candy",
                 "Rainbow",
-                "Yin Yang",
+                "Divine",
             },
             ["Sammyni Spyderini"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
-                "Bloodrot",
+                "Candy",
                 "Rainbow",
-                "Yin Yang",
+                "Divine",
             },
             ["Chicleteira Bicicleteira"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
-                "Bloodrot",
+                "Candy",
                 "Rainbow",
-                "Yin Yang",
+                "Divine",
             },
             ["Chicleteirina Bicicleteirina"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
-                "Bloodrot",
+                "Candy",
                 "Rainbow",
-                "Yin Yang",
+                "Divine",
             },
             ["Los Tralaleritos"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
                 "Candy",
                 "Rainbow",
-                "Bloodrot",
-                "Yin Yang",
+                "Divine",
             },
             ["Las Tralaleritas"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
                 "Candy",
                 "Rainbow",
-                "Bloodrot",
-                "Yin Yang",
+                "Divine",
             },
             ["Karkerkar Kurkur"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
                 "Candy",
                 "Rainbow",
-                "Bloodrot",
-                "Yin Yang",
+                "Divine",
             },
             ["Job Job Job Sahur"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
                 "Candy",
                 "Rainbow",
-                "Bloodrot",
-                "Yin Yang",
+                "Divine",
             },
             ["Graipuss Medussi"] = {
                 "Normal",
-                "Galaxy",
-                "Lava",
                 "Gold",
                 "Diamond",
                 "Candy",
                 "Rainbow",
-                "Bloodrot",
-                "Yin Yang",
+                "Divine",
             },
         },
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
