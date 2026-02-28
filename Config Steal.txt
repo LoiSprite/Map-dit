@@ -20,61 +20,22 @@ getgenv().Config = {
                 ["Burrito Bandito"] = {
                         "All",
                 },
-                ["Los Combinasionas"] = {
-                        "All",
-                },
-                ["Mi Gatito"] = {
-                        "All",
-                },
-                ["Nooo My Hotspot"] = {
-                        "All",
-                },
-                ["67"] = {
-                        "All",
-                },
-                ["Los Nooo My Hotspotsitos"] = {
-                        "All",
-                },
-                ["Los Nooo My Hotspotsitos"] = {
-                        "All",
-                },
-                ["Chicleteira Bicicleteira"] = {
-                        "All",
-                },
-                ["La Grande Combinasion"] = {
-                        "All",
-                },
-                ["Chill Puppy"] = {
-                        "All",
-                },
-                ["Brunito Marsito"] = {
-                        "All",
-                },
-                ["Chicleteirina Bicicleteirina"] = {
-                        "All",
-                },
-                ["Graipuss Medussi"] = {
-                        "All",
-                },
-                ["Quesadilla Crocodila"] = {
-                        "All",
-                },
-                ["Burrito Bandito"] = {
-                        "All",
-                },
             },
         },
         ["Ignore Secret"] = {
             ["Sammyni Spyderini"] = {
                 "All",
             },
-            ["Triplito Tralaleritos"] = {
-                "All",
-            },
-            ["La Vacca Prese Presente"] = {
-                "All",
-            },
             ["Job Job Job Sahur"] = {
+                "All",
+            },
+            ["Fishboard"] = {
+                "All",
+            },
+            ["Horegini Boom"] = {
+                "All",
+            },
+            ["Blackhole Goat"] = {
                 "All",
             },
             ["Love Love Love Sahur"] = {
@@ -87,12 +48,6 @@ getgenv().Config = {
                 "All",
             },
             ["Los Tralaleritos"] = {
-                "All",
-            },
-            ["La Cucaracha"] = {
-                "All",
-            },
-            ["Chachechi"] = {
                 "All",
             },
             ["Dul Dul Dul"] = {
@@ -110,16 +65,7 @@ getgenv().Config = {
             ["Trickolino"] = {
                 "All",
             },
-            ["Pumpkini Spyderini"] = {
-                "All",
-            },
             ["Jackorilla"] = {
-                "All",
-            },
-            ["Guerriro Digitale"] = {
-                "All",
-            },
-            ["Blackhole Goat"] = {
                 "All",
             },
             ["Los Tortus"] = {
@@ -128,20 +74,15 @@ getgenv().Config = {
             ["Los Trios"] = {
                 "All",
             },
-            ["GOAT"] = {
-                "All",
-            },
         },
         ["Buy Lucky Block"] = {
             "Secret Lucky Block",
             "Admin Lucky Block",
             "Los Lucky Blocks",
-            "Heart Lucky Block",
         },
        ["Open Lucky Block"] = {
             "Admin Lucky Block",
             "Los Lucky Blocks",
-            "Heart Lucky Block",
        },
         ["Rare Lucky Block"] = {
             "Secret Lucky Block",
@@ -160,7 +101,6 @@ getgenv().Config = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
                 "Divine",
             },
@@ -168,7 +108,6 @@ getgenv().Config = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
                 "Divine",
             },
@@ -176,7 +115,6 @@ getgenv().Config = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
                 "Divine",
             },
@@ -184,7 +122,6 @@ getgenv().Config = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
                 "Divine",
             },
@@ -192,7 +129,6 @@ getgenv().Config = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
                 "Divine",
             },
@@ -200,7 +136,6 @@ getgenv().Config = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
                 "Divine",
             },
@@ -208,7 +143,6 @@ getgenv().Config = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
                 "Divine",
             },
@@ -216,7 +150,6 @@ getgenv().Config = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
                 "Divine",
             },
@@ -224,7 +157,6 @@ getgenv().Config = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
                 "Divine",
             },
@@ -232,15 +164,26 @@ getgenv().Config = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
+                "Divine",
+            },
+            ["Fishboard"] = {
+                "Normal",
+                "Gold",
+                "Diamond",
+                "Rainbow",
+                "Divine",
+            },
+            ["Secret Lucky Block"] = {
+                "Normal",
+                "Gold",
+                "Diamond",
                 "Divine",
             },
             ["Graipuss Medussi"] = {
                 "Normal",
                 "Gold",
                 "Diamond",
-                "Candy",
                 "Rainbow",
                 "Divine",
             },
@@ -248,3 +191,4 @@ getgenv().Config = {
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
