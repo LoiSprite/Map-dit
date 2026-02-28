@@ -23,21 +23,6 @@ getgenv().Config = {
             },
         },
         ["Ignore Secret"] = {
-            ["Sammyni Spyderini"] = {
-                "All",
-            },
-            ["Job Job Job Sahur"] = {
-                "All",
-            },
-            ["Fishboard"] = {
-                "All",
-            },
-            ["Horegini Boom"] = {
-                "All",
-            },
-            ["Blackhole Goat"] = {
-                "All",
-            },
             ["Love Love Love Sahur"] = {
                 "All",
             },
@@ -47,31 +32,55 @@ getgenv().Config = {
             ["Las Tralaleritas"] = {
                 "All",
             },
+            ["La Cucaracha"] = {
+                "All",
+            },
+            ["Los Tortus"] = {
+                "All",
+            },
             ["Los Tralaleritos"] = {
                 "All",
             },
             ["Dul Dul Dul"] = {
                 "All",
             },
+            ["La Vacca Saturno Saturnita"] = {
+                "All",
+            },
+            ["Job Job Job Sahur"] = {
+                "All",
+            },
+            ["To to to Sahur"] = {
+                "All",
+            },
+            ["Blackhole Goat"] = {
+                "All",
+            },
+            ["Guerriro Digitale"] = {
+                "All",
+            },
+            ["Graipuss Medussi"] = {
+                "All",
+            },
             ["Los Jobcitos"] = {
+                "All",
+            },
+            ["Fishboard"] = {
+                "All",
+            },
+            ["Rocco Disco"] = {
+                "All",
+            },
+            ["Horegini Boom"] = {
+                "All",
+            },
+            ["Sammyni Spyderini"] = {
                 "All",
             },
             ["Karkerkar Kurkur"] = {
                 "All",
             },
-            ["La Vacca Saturno Saturnita"] = {
-                "All",
-            },
-            ["Trickolino"] = {
-                "All",
-            },
-            ["Jackorilla"] = {
-                "All",
-            },
-            ["Los Tortus"] = {
-                "All",
-            },
-            ["Los Trios"] = {
+            ["Burrito Bandito"] = {
                 "All",
             },
         },
@@ -191,4 +200,5 @@ getgenv().Config = {
     }
 }
 spawn(function() task.wait(300) if not getgenv().scriptLoaded then game.Players.LocalPlayer:Kick("Script load timeout\nKick to prevent animal gets stolen") end end) repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until getgenv().Joebiden
+
 
