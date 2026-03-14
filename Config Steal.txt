@@ -91,6 +91,7 @@ getgenv().Config = {
             "Los Taco Blocks",
             "Taco Lucky Block",
             "Spooky Lucky Block",
+            "Leprechaun Lucky Block",
         },
        ["Open Lucky Block"] = {
             "Admin Lucky Block",
@@ -100,7 +101,7 @@ getgenv().Config = {
        },
         ["Rare Lucky Block"] = {
             "Secret Lucky Block",
-            "Spooky Lucky Block",
+            "Leprechaun Lucky Block",
         },
     },
     ["Performance"] = {
