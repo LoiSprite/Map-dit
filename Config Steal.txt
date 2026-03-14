@@ -197,6 +197,13 @@ getgenv().Config = {
                 "Rainbow",
                 "Divine",
             },
+            ["Leprechaun Lucky Block"] = {
+                "Normal",
+                "Gold",
+                "Diamond",
+                "Rainbow",
+                "Divine",
+            },
             ["Graipuss Medussi"] = {
                 "Normal",
                 "Gold",
