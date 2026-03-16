@@ -32,6 +32,9 @@ getgenv().Config = {
             ["Las Tralaleritas"] = {
                 "All",
             },
+            ["La Vacca Lepre Lepreino"] = {
+                "All",
+            },
             ["La Cucaracha"] = {
                 "All",
             },
