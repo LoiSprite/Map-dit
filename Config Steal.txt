@@ -208,6 +208,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["To to to Sahur"] = {
                 "Normal",
@@ -217,6 +218,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["La Grande Combinasion"] = {
                 "Normal",
@@ -226,6 +228,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Sammyni Spyderini"] = {
                 "Normal",
@@ -235,6 +238,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Chicleteira Bicicleteira"] = {
                 "Normal",
@@ -244,6 +248,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Chicleteirina Bicicleteirina"] = {
                 "Normal",
@@ -253,6 +258,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Los Tralaleritos"] = {
                 "Normal",
@@ -262,6 +268,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Las Tralaleritas"] = {
                 "Normal",
@@ -271,6 +278,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Karkerkar Kurkur"] = {
                 "Normal",
@@ -280,6 +288,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Job Job Job Sahur"] = {
                 "Normal",
@@ -289,6 +298,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Fishboard"] = {
                 "Normal",
@@ -298,6 +308,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Secret Lucky Block"] = {
                 "Normal",
@@ -307,6 +318,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Leprechaun Lucky Block"] = {
                 "Normal",
@@ -316,6 +328,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Graipuss Medussi"] = {
                 "Normal",
@@ -325,6 +338,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["DJ Panda"] = {
                 "Normal",
@@ -334,6 +348,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Coffin Tung Tung Tung Sahur"] = {
                 "Normal",
@@ -343,6 +358,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Coffin Tung Tung Tung Sahur"] = {
                 "Normal",
@@ -352,6 +368,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Paradiso Axolottino"] = {
                 "Normal",
@@ -361,6 +378,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Serafinna Medusella"] = {
                 "Normal",
@@ -370,6 +388,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Cigno Fulgoro"] = {
                 "Normal",
@@ -379,6 +398,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
             ["Los Cupids"] = {
                 "Normal",
@@ -388,6 +408,7 @@ getgenv().Config = {
                 "Diamond",
                 "Rainbow",
                 "Divine",
+                "YinYang",
             },
         },
     }
