@@ -17,7 +17,40 @@ getgenv().Config = {
         ["Auto Fuse"] = {
             ["Enable"] = false,
             ["Fuse Animal"] = {
-                ["Burrito Bandito"] = {
+                ["Chicleteirina Bicicleteirina"] = {
+                        "All",
+                },
+                ["DJ Panda"] = {
+                        "All",
+                },
+                ["Los Nooo My Hotspotsitos"] = {
+                        "All",
+                },
+                ["Quesadilla Crocodila"] = {
+                        "All",
+                },
+                ["67"] = {
+                        "All",
+                },
+                ["Los Burritos"] = {
+                        "All",
+                },
+                ["Los Combinasionas"] = {
+                        "All",
+                },
+                ["Los Quesadillas"] = {
+                        "All",
+                },
+                ["Los 67"] = {
+                        "All",
+                },
+                ["Noo my Gold"] = {
+                        "All",
+                },
+                ["Noo my Gold"] = {
+                        "All",
+                },
+                ["Snailo Clovero"] = {
                         "All",
                 },
             },
