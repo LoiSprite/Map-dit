@@ -17,6 +17,45 @@ getgenv().Config = {
         ["Auto Fuse"] = {
             ["Enable"] = true,
             ["Fuse Animal"] = {
+                ["Love Love Love Sahur"] = {
+                        "All",
+                },
+                ["Las Tralaleritas"] = {
+                        "All",
+                },
+                ["To to to Sahur"] = {
+                        "All",
+                },
+                ["Cupid Hotspot"] = {
+                        "All",
+                },
+                ["Los Tralaleritos"] = {
+                        "All",
+                },
+                ["La Vacca Lepre Lepreino"] = {
+                        "All",
+                },
+                ["Job Job Job Sahur"] = {
+                        "All",
+                },
+                ["Graipuss Medussi"] = {
+                        "All",
+                },
+                ["La Vacca Saturno Saturnita"] = {
+                        "All",
+                },
+                ["La Cucaracha"] = {
+                        "All",
+                },
+                ["Los Cucarachas"] = {
+                        "All",
+                },
+                ["Los Tortus"] = {
+                        "All",
+                },
+                ["Fishboard"] = {
+                        "All",
+                },
                 ["Chicleteirina Bicicleteirina"] = {
                         "All",
                 },
@@ -26,10 +65,19 @@ getgenv().Config = {
                 ["Los Nooo My Hotspotsitos"] = {
                         "All",
                 },
+                ["Guerriro Digitale"] = {
+                        "All",
+                },
                 ["Quesadilla Crocodila"] = {
                         "All",
                 },
+                ["Mi Gatito"] = {
+                        "All",
+                },
                 ["67"] = {
+                        "All",
+                },
+                ["Blackhole Goat"] = {
                         "All",
                 },
                 ["Los Burritos"] = {
@@ -38,7 +86,25 @@ getgenv().Config = {
                 ["Los Combinasionas"] = {
                         "All",
                 },
+                ["Los Jobcitos"] = {
+                        "All",
+                },
+                ["Luck Luck Luck Sahur"] = {
+                        "All",
+                },
                 ["Los Quesadillas"] = {
+                        "All",
+                },
+                ["Karkerkar Kurkur"] = {
+                        "All",
+                },
+                ["Horegini Boom"] = {
+                        "All",
+                },
+                ["Dul Dul Dul"] = {
+                        "All",
+                },
+                ["GOAT"] = {
                         "All",
                 },
                 ["Los 67"] = {
@@ -47,76 +113,61 @@ getgenv().Config = {
                 ["Noo my Gold"] = {
                         "All",
                 },
-                ["Noo my Gold"] = {
+                ["Sammyni Spyderini"] = {
                         "All",
                 },
                 ["Snailo Clovero"] = {
                         "All",
                 },
+                ["Triplito Tralaleritos"] = {
+                        "All",
+                },
+                ["Rocco Disco"] = {
+                        "All",
+                },
+                ["Chill Puppy"] = {
+                        "All",
+                },
+                ["Los Trios"] = {
+                        "All",
+                },
+                ["Noo my Heart"] = {
+                        "All",
+                },
+                ["Nooo My Hotspot"] = {
+                        "All",
+                },
+                ["Santa Hotspot"] = {
+                        "All",
+                },
+                ["Spinny Hammy"] = {
+                        "All",
+                },
+                ["Reindeer Tralala"] = {
+                        "All",
+                },
+                ["Bunito Bunito Spinito"] = {
+                        "All",
+                },
+                ["Chicleteira Cupideira"] = {
+                        "All",
+                },
+                ["Bacuru and Egguru"] = {
+                        "All",
+                },
+                ["Brunito Marsito"] = {
+                        "All",
+                },
+                ["Santteo"] = {
+                        "All",
+                },
+                ["Bunnyman"] = {
+                        "All",
+                },
             },
         },
         ["Ignore Secret"] = {
-            ["Love Love Love Sahur"] = {
-                "All",
-            },
-            ["Cupid Hotspot"] = {
-                "All",
-            },
-            ["Las Tralaleritas"] = {
-                "All",
-            },
-            ["La Vacca Lepre Lepreino"] = {
-                "All",
-            },
-            ["La Cucaracha"] = {
-                "All",
-            },
-            ["Los Tortus"] = {
-                "All",
-            },
-            ["Los Tralaleritos"] = {
-                "All",
-            },
-            ["Dul Dul Dul"] = {
-                "All",
-            },
             ["La Vacca Saturno Saturnita"] = {
-                "All",
-            },
-            ["Job Job Job Sahur"] = {
-                "All",
-            },
-            ["To to to Sahur"] = {
-                "All",
-            },
-            ["Blackhole Goat"] = {
-                "All",
-            },
-            ["Guerriro Digitale"] = {
-                "All",
-            },
-            ["Graipuss Medussi"] = {
-                "All",
-            },
-            ["Los Jobcitos"] = {
-                "All",
-            },
-            ["Fishboard"] = {
-                "All",
-            },
-            ["Rocco Disco"] = {
-                "All",
-            },
-            ["Horegini Boom"] = {
-                "All",
-            },
-            ["Sammyni Spyderini"] = {
-                "All",
-            },
-            ["Karkerkar Kurkur"] = {
-                "All",
-            },
-            ["Burrito Bandito"] = {
                 "All",
             },
         },
@@ -151,12 +202,16 @@ getgenv().Config = {
         ["Ignore Notify"] = {
             ["La Vacca Saturno Saturnita"] = {
                 "Normal",
+                "Candy",
+                "Normal",
                 "Gold",
                 "Diamond",
                 "Rainbow",
                 "Divine",
             },
             ["To to to Sahur"] = {
+                "Normal",
+                "Candy",
                 "Normal",
                 "Gold",
                 "Diamond",
@@ -165,12 +220,16 @@ getgenv().Config = {
             },
             ["La Grande Combinasion"] = {
                 "Normal",
+                "Candy",
+                "Normal",
                 "Gold",
                 "Diamond",
                 "Rainbow",
                 "Divine",
             },
             ["Sammyni Spyderini"] = {
+                "Normal",
+                "Candy",
                 "Normal",
                 "Gold",
                 "Diamond",
@@ -179,12 +238,16 @@ getgenv().Config = {
             },
             ["Chicleteira Bicicleteira"] = {
                 "Normal",
+                "Candy",
+                "Normal",
                 "Gold",
                 "Diamond",
                 "Rainbow",
                 "Divine",
             },
             ["Chicleteirina Bicicleteirina"] = {
+                "Normal",
+                "Candy",
                 "Normal",
                 "Gold",
                 "Diamond",
@@ -193,12 +256,16 @@ getgenv().Config = {
             },
             ["Los Tralaleritos"] = {
                 "Normal",
+                "Candy",
+                "Normal",
                 "Gold",
                 "Diamond",
                 "Rainbow",
                 "Divine",
             },
             ["Las Tralaleritas"] = {
+                "Normal",
+                "Candy",
                 "Normal",
                 "Gold",
                 "Diamond",
@@ -207,12 +274,16 @@ getgenv().Config = {
             },
             ["Karkerkar Kurkur"] = {
                 "Normal",
+                "Candy",
+                "Normal",
                 "Gold",
                 "Diamond",
                 "Rainbow",
                 "Divine",
             },
             ["Job Job Job Sahur"] = {
+                "Normal",
+                "Candy",
                 "Normal",
                 "Gold",
                 "Diamond",
@@ -221,12 +292,16 @@ getgenv().Config = {
             },
             ["Fishboard"] = {
                 "Normal",
+                "Candy",
+                "Normal",
                 "Gold",
                 "Diamond",
                 "Rainbow",
                 "Divine",
             },
             ["Secret Lucky Block"] = {
+                "Normal",
+                "Candy",
                 "Normal",
                 "Gold",
                 "Diamond",
@@ -235,6 +310,8 @@ getgenv().Config = {
             },
             ["Leprechaun Lucky Block"] = {
                 "Normal",
+                "Candy",
+                "Normal",
                 "Gold",
                 "Diamond",
                 "Rainbow",
@@ -242,12 +319,25 @@ getgenv().Config = {
             },
             ["Graipuss Medussi"] = {
                 "Normal",
+                "Candy",
+                "Normal",
                 "Gold",
                 "Diamond",
                 "Rainbow",
                 "Divine",
             },
             ["DJ Panda"] = {
+                "Normal",
+                "Candy",
+                "Normal",
+                "Gold",
+                "Diamond",
+                "Rainbow",
+                "Divine",
+            },
+            ["Coffin Tung Tung Tung Sahur"] = {
+                "Normal",
+                "Candy",
                 "Normal",
                 "Gold",
                 "Diamond",
