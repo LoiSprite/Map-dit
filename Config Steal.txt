@@ -3,7 +3,7 @@ getgenv().Config = {
     ["Gameplay"] = {
         ["Server Type"] = "Private",
         -- Private Server config
-        ["Collect Cash Cap"] = "500B",
+        ["Collect Cash Cap"] = "750B",
         -- Public Server config
         ["Max Auctioning Multiplier"] = 10,
         ["Lock Base Extra Time"] = 5,
