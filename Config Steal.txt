@@ -500,6 +500,21 @@ getgenv().Config = {
                 "Cursed",
                 "Radioactive",
             },
+            ["Horegini Boom"] = {
+                "Normal",
+                "Candy",
+                "Normal",
+                "Gold",
+                "Diamond",
+                "Bloodrot",
+                "Rainbow",
+                "Divine",
+                "YinYang",
+                "Galaxy",
+                "Lava",
+                "Cursed",
+                "Radioactive",
+            },
         },
     }
 }
