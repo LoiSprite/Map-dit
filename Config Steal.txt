@@ -110,9 +110,6 @@ getgenv().Config = {
                 ["Los 67"] = {
                         "All",
                 },
-                ["Noo my Gold"] = {
-                        "All",
-                },
                 ["Sammyni Spyderini"] = {
                         "All",
                 },
