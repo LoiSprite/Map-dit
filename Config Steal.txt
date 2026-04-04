@@ -20,151 +20,19 @@ getgenv().Config = {
                 ["Love Love Love Sahur"] = {
                         "All",
                 },
-                ["Las Tralaleritas"] = {
-                        "All",
-                },
-                ["To to to Sahur"] = {
-                        "All",
-                },
-                ["Cupid Hotspot"] = {
-                        "All",
-                },
-                ["Los Tralaleritos"] = {
-                        "All",
-                },
-                ["La Vacca Lepre Lepreino"] = {
-                        "All",
-                },
-                ["Job Job Job Sahur"] = {
-                        "All",
-                },
-                ["Graipuss Medussi"] = {
-                        "All",
-                },
-                ["La Vacca Saturno Saturnita"] = {
-                        "All",
-                },
-                ["La Cucaracha"] = {
-                        "All",
-                },
-                ["Los Cucarachas"] = {
-                        "All",
-                },
-                ["Los Tortus"] = {
-                        "All",
-                },
-                ["Fishboard"] = {
-                        "All",
-                },
-                ["Chicleteirina Bicicleteirina"] = {
-                        "All",
-                },
-                ["DJ Panda"] = {
-                        "All",
-                },
-                ["Los Nooo My Hotspotsitos"] = {
-                        "All",
-                },
-                ["Guerriro Digitale"] = {
-                        "All",
-                },
-                ["Quesadilla Crocodila"] = {
-                        "All",
-                },
-                ["Mi Gatito"] = {
-                        "All",
-                },
-                ["67"] = {
-                        "All",
-                },
-                ["Blackhole Goat"] = {
-                        "All",
-                },
-                ["Los Burritos"] = {
-                        "All",
-                },
-                ["Los Combinasionas"] = {
-                        "All",
-                },
-                ["Los Jobcitos"] = {
-                        "All",
-                },
-                ["Luck Luck Luck Sahur"] = {
-                        "All",
-                },
-                ["Los Quesadillas"] = {
-                        "All",
-                },
-                ["Karkerkar Kurkur"] = {
-                        "All",
-                },
-                ["Horegini Boom"] = {
-                        "All",
-                },
-                ["Dul Dul Dul"] = {
-                        "All",
-                },
-                ["GOAT"] = {
-                        "All",
-                },
-                ["Los 67"] = {
-                        "All",
-                },
-                ["Sammyni Spyderini"] = {
-                        "All",
-                },
-                ["Snailo Clovero"] = {
-                        "All",
-                },
-                ["Triplito Tralaleritos"] = {
-                        "All",
-                },
-                ["Rocco Disco"] = {
-                        "All",
-                },
-                ["Chill Puppy"] = {
-                        "All",
-                },
-                ["Los Trios"] = {
-                        "All",
-                },
-                ["Noo my Heart"] = {
-                        "All",
-                },
-                ["Nooo My Hotspot"] = {
-                        "All",
-                },
-                ["Santa Hotspot"] = {
-                        "All",
-                },
-                ["Spinny Hammy"] = {
-                        "All",
-                },
-                ["Reindeer Tralala"] = {
-                        "All",
-                },
-                ["Bunito Bunito Spinito"] = {
-                        "All",
-                },
-                ["Chicleteira Cupideira"] = {
-                        "All",
-                },
-                ["Bacuru and Egguru"] = {
-                        "All",
-                },
-                ["Brunito Marsito"] = {
-                        "All",
-                },
-                ["Santteo"] = {
-                        "All",
-                },
-                ["Bunnyman"] = {
-                        "All",
-                },
             },
         },
         ["Ignore Secret"] = {
-            ["La Vacca Saturno Saturnita"] = {
+            ["Bunny Bunny Bunny Sahur"] = {
+                "All",
+            },
+            ["Buntteo"] = {
+                "All",
+            },
+            ["La Vacca Lepre Lepreino"] = {
+                "All",
+            },
+            ["Granny"] = {
                 "All",
             },
         },
