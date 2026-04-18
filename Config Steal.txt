@@ -80,6 +80,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["To to to Sahur"] = {
                 "Normal",
@@ -95,6 +96,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["La Grande Combinasion"] = {
                 "Normal",
@@ -110,6 +112,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Sammyni Spyderini"] = {
                 "Normal",
@@ -125,6 +128,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Chicleteira Bicicleteira"] = {
                 "Normal",
@@ -140,6 +144,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Chicleteirina Bicicleteirina"] = {
                 "Normal",
@@ -155,6 +160,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Los Tralaleritos"] = {
                 "Normal",
@@ -170,6 +176,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Las Tralaleritas"] = {
                 "Normal",
@@ -185,6 +192,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Karkerkar Kurkur"] = {
                 "Normal",
@@ -200,6 +208,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Job Job Job Sahur"] = {
                 "Normal",
@@ -215,6 +224,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Fishboard"] = {
                 "Normal",
@@ -230,6 +240,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Secret Lucky Block"] = {
                 "Normal",
@@ -245,6 +256,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Graipuss Medussi"] = {
                 "Normal",
@@ -260,6 +272,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Coffin Tung Tung Tung Sahur"] = {
                 "Normal",
@@ -275,6 +288,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Bunny Bunny Bunny Sahur"] = {
                 "Normal",
@@ -290,6 +304,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Buntteo"] = {
                 "Normal",
@@ -305,6 +320,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Horegini Boom"] = {
                 "Normal",
@@ -320,6 +336,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["DJ Panda"] = {
                 "Normal",
@@ -335,6 +352,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Noo my Eggs"] = {
                 "Normal",
@@ -350,6 +368,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Strawberrita"] = {
                 "Normal",
@@ -365,6 +384,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Berryno"] = {
                 "Normal",
@@ -380,6 +400,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Bananito"] = {
                 "Normal",
@@ -395,6 +416,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Guerriro Digitale"] = {
                 "Normal",
@@ -410,6 +432,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
             ["Nooo My Hotspot"] = {
                 "Normal",
@@ -425,6 +448,7 @@ getgenv().Config = {
                 "Lava",
                 "Cursed",
                 "Radioactive",
+                "Cyber",
             },
         },
     }
