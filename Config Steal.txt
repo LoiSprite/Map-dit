@@ -272,5 +272,5 @@ getgenv().Config = {
     },
 }
 
-getgenv().script_key = "sWblCQgLObXlNcvXuMoNRIFEljDSMGgb";
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JustLevel/goombahub/main/goombahub.lua"))()
+script_key="lxcJrxCPuLAZYAYUxUMtfnAGVHtpDRzc";
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JustLevel/goombahub/main/premiumgoomba.lua"))()
